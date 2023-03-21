@@ -20,6 +20,7 @@ turn on the warning lights, for either water, humidity or brightness. It also ta
 it on an OLED display to the user.
 
 
+The code is in C, programmed using ESP-IDF.
 
 app_main.c contains code for Sensor control ESP32 device.
 
