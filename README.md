@@ -21,8 +21,11 @@ it on an OLED display to the user.
 
 
 
-app_main.c contains code for Sensor control ESP32 device
-app_main2.c contains code for Output control (Display) ESP32
+app_main.c contains code for Sensor control ESP32 device.
+
+app_main2.c contains code for Output control (Display) ESP32.
+
+
 
 Attached is a poster with the system overview:
 [poster.pdf](https://github.com/teiturhelgi/Plantstation/files/11026801/poster.pdf)
