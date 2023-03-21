@@ -29,3 +29,7 @@ app_main2.c contains code for Output control (Display) ESP32.
 
 Attached is a poster with the system overview:
 [poster.pdf](https://github.com/teiturhelgi/Plantstation/files/11026801/poster.pdf)
+
+Full report:
+[Final_assignment_PEWS-2.pdf](https://github.com/teiturhelgi/Plantstation/files/11027253/Final_assignment_PEWS-2.pdf)
+
