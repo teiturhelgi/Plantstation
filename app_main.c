@@ -1,5 +1,7 @@
-#Sensor ESP32 Main Code
-
+/*
+    Sensor ESP32 Main Code
+    Code by Teitur Skulason
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
