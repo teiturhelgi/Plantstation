@@ -31,5 +31,6 @@ Attached is a poster with the system overview:
 [poster.pdf](https://github.com/teiturhelgi/Plantstation/files/11026801/poster.pdf)
 
 Full report:
-[Final_assignment_PEWS-2.pdf](https://github.com/teiturhelgi/Plantstation/files/11027253/Final_assignment_PEWS-2.pdf)
+[Final_assignment_PEWS.pdf](https://github.com/teiturhelgi/Plantstation/files/11027272/Final_assignment_PEWS.pdf)
+
 
