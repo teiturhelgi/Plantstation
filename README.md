@@ -19,3 +19,5 @@ from the Raspberry Pi using MQTT. Using the sensor data, the second ESP32 evalua
 turn on the warning lights, for either water, humidity or brightness. It also takes the data and displays 
 it on an OLED display to the user.
 
+Attached is a poster with the system overview:
+[poster.pdf](https://github.com/teiturhelgi/Plantstation/files/11026801/poster.pdf)
